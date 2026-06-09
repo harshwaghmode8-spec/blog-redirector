@@ -2,8 +2,8 @@
 // Add, remove, or modify the YouTube video URLs in the array below.
 
 const VIDEO_URLS = [
-    "https://www.youtube.com/watch?v=dQw4w9WgXcQ", // Rick Astley - Never Gonna Give You Up
-    "https://www.youtube.com/watch?v=9bZkp7q19f0", // PSY - GANGNAM STYLE
-    "https://www.youtube.com/watch?v=jNQXAC9IVRw", // Me at the zoo (First YouTube Video)
-    "https://www.youtube.com/watch?v=V-_O7nl0Ii0", // Keyboard Cat
+    "https://youtube.com/shorts/PnoYxLJCjUQ?si=0IdTQb31MiBZSXyx", // Rick Astley - Never Gonna Give You Up
+    "https://youtube.com/shorts/QyvB8rc4KC4?si=gpP8A1ThDVTlL_t0", // PSY - GANGNAM STYLE
+    "https://youtube.com/shorts/MZ2geiq3TGw?si=-MhFHqvpjGfp33Mb", // Me at the zoo (First YouTube Video)
+    "https://youtube.com/shorts/ySw0ZTQCsUY?si=zigUaNaX6aQHcQDH", // Keyboard Cat
 ];
